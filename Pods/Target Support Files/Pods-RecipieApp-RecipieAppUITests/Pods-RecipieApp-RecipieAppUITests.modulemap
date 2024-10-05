@@ -1,0 +1,6 @@
+framework module Pods_RecipieApp_RecipieAppUITests {
+  umbrella header "Pods-RecipieApp-RecipieAppUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
